@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "country": "India",
+        "state": [
+            {
+                "id": 1,
+                "state": "Madhya Pradesh",
+                "city": [
+                    { "id": 1, "name": "Indore" },
+                    { "id": 2, "name": "Bhopal" },
+                    { "id": 3, "name": "Harda" }
+                ]
+            },
+            {
+                "id": 2,
+                "state": "West Bengal",
+                "city": [
+                    { "id": 1, "name": "Kolkata" },
+                    { "id": 2, "name": "Alipurduar" },
+                    { "id": 3, "name": "Bankura" }
+                ]
+            },
+            {
+                "id": 3,
+                "state": "Karnataka",
+                "city": [
+                    { "id": 1, "name": "Shivamogga" },
+                    { "id": 2, "name": "Udupi" },
+                    { "id": 3, "name": "Vijayapura" },
+                    { "id": 4, "name": "Bengaluru" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "country": "USA",
+        "state": [
+            {
+                "id": 1,
+                "state": "California",
+                "city": [
+                    { "id": 1, "name": "Los Angeles" },
+                    { "id": 2, "name": "San Francisco" },
+                    { "id": 3, "name": "San Diego" }
+                ]
+            },
+            {
+                "id": 2,
+                "state": "Texas",
+                "city": [
+                    { "id": 1, "name": "Houston" },
+                    { "id": 2, "name": "Dallas" },
+                    { "id": 3, "name": "San Antonio" }
+                ]
+            },
+            {
+                "id": 3,
+                "state": "Florida",
+                "city": [
+                    { "id": 1, "name": "Miami" },
+                    { "id": 2, "name": "Orlando" },
+                    { "id": 3, "name": "Tampa" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "country": "Canada",
+        "state": [
+            {
+                "id": 1,
+                "state": "Ontario",
+                "city": [
+                    { "id": 1, "name": "Toronto" },
+                    { "id": 2, "name": "Ottawa" },
+                    { "id": 3, "name": "Mississauga" }
+                ]
+            },
+            {
+                "id": 2,
+                "state": "Quebec",
+                "city": [
+                    { "id": 1, "name": "Montreal" },
+                    { "id": 2, "name": "Quebec City" },
+                    { "id": 3, "name": "Laval" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "country": "United Kingdom",
+        "state": [
+            {
+                "id": 1,
+                "state": "England",
+                "city": [
+                    { "id": 1, "name": "London" },
+                    { "id": 2, "name": "Manchester" },
+                    { "id": 3, "name": "Birmingham" }
+                ]
+            },
+            {
+                "id": 2,
+                "state": "Scotland",
+                "city": [
+                    { "id": 1, "name": "Edinburgh" },
+                    { "id": 2, "name": "Glasgow" },
+                    { "id": 3, "name": "Aberdeen" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "country": "Australia",
+        "state": [
+            {
+                "id": 1,
+                "state": "New South Wales",
+                "city": [
+                    { "id": 1, "name": "Sydney" },
+                    { "id": 2, "name": "Newcastle" },
+                    { "id": 3, "name": "Wollongong" }
+                ]
+            },
+            {
+                "id": 2,
+                "state": "Victoria",
+                "city": [
+                    { "id": 1, "name": "Melbourne" },
+                    { "id": 2, "name": "Geelong" },
+                    { "id": 3, "name": "Ballarat" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "country": "Germany",
+        "state": [
+            {
+                "id": 1,
+                "state": "Bavaria",
+                "city": [
+                    { "id": 1, "name": "Munich" },
+                    { "id": 2, "name": "Nuremberg" },
+                    { "id": 3, "name": "Augsburg" }
+                ]
+            },
+            {
+                "id": 2,
+                "state": "Baden-Württemberg",
+                "city": [
+                    { "id": 1, "name": "Stuttgart" },
+                    { "id": 2, "name": "Karlsruhe" },
+                    { "id": 3, "name": "Freiburg" }
+                ]
+            }
+        ]
+    }
+]
